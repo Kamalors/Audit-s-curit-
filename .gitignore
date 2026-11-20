@@ -1,0 +1,8 @@
+# Preuves generees localement (horodatees, specifiques a chaque instance)
+preuves/*
+!preuves/.gitkeep
+
+# Juice Shop installe localement
+juice-shop/
+node_modules/
+*.log
