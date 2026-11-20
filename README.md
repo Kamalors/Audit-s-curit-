@@ -62,6 +62,7 @@ enregistrées dans `preuves/`.
 | `scripts/phase3_audit_code.sh` | Phase 3 – audit de code des 3 failles |
 | `scripts/run_audit.sh` | Orchestrateur des phases 1→3 |
 | `rapport/rapport_audit.md` | Phase 4 – rapport d'audit (modèle rempli) |
+| `rapport/fiches_constats.md` | Phase 4 – fiches de constat avec preuves réelles |
 | `rapport/corrections.md` | Patches détaillés des 3 vulnérabilités |
 | `preuves/` | Preuves horodatées générées par les scripts |
 
